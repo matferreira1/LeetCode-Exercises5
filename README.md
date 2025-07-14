@@ -55,7 +55,7 @@ Encontra o caminho com soma mínima de cima-esquerda para baixo-direita em uma g
 
 ## Link da apresentação
 
-[Link será adicionado após apresentação]
+https://youtu.be/MXogEjisnHg
 
 ## Como Executar
 
